@@ -9,8 +9,13 @@
     padding: 0 15px;
     margin: 0;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
     font-size: x-large;
+}
+
+header > a{
+    padding: 5px;
 }
 
 #subheader{
@@ -32,6 +37,7 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0;
+    max-width: 100%;
 }
 
 .item{
