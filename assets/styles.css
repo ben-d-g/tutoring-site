@@ -42,6 +42,7 @@ body{
 
 .item{
     border: solid #151d14 4px;
+    border-radius: 15px;
     padding: 25px;
     margin: 25px;
     background-color: azure;
